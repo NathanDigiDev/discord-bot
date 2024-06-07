@@ -1,0 +1,17 @@
+# Ignorer le répertoire node_modules
+node_modules/
+
+# Ignorer le répertoire env
+env/
+
+# Ignorer les fichiers compilés
+*.o
+*.a
+*.so
+
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer les fichiers de configuration des IDE
+.idea/
+.vscode/
